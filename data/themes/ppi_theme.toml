@@ -1,0 +1,24 @@
+# Theme metadata
+name = "ppi"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#bf616a"
+
+# Menu
+menu_primary = "#2e3440"
+menu_text = "#FFFFFF"
+menu_text_active = "#bf616a"
+menu_title = "#2b2b2b"
+subtitle = "#3b4252"
+
+# Home sections
+home_section_odd = "#FFFF"
+home_section_even = "#e5e9f0" #"#2e3440" 
+
+
+# "#F8F9FB"
+
+####

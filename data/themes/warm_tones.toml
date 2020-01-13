@@ -1,0 +1,20 @@
+# Theme metadata
+name = "wrmton"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#211D23"
+
+# Menu
+menu_primary = "#211D23"  #"#FEE274"
+menu_text = "#FFFEFF"
+menu_text_active = "#FED136"
+menu_title = "#FFEFFF"
+
+
+# Home sections
+home_section_odd =  "#FFFEFF"
+home_section_even = "#F8F9FB" #"#2e3440" 
+

@@ -1,0 +1,23 @@
+# Theme metadata
+name = "vmi"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#E85A4f"
+
+# Menu
+menu_primary = "#222629"
+menu_text = "#FFFFFF"
+menu_text_active = "#8EE4AF"
+menu_title = "#5CDB95"
+subtitle = "#3b4252"
+
+# Home sections
+home_section_odd = "#FFFF"
+home_section_even = "#379683" #"#2e3440" 
+
+
+
+####

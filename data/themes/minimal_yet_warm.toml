@@ -1,0 +1,23 @@
+# Theme metadata
+name = "myw"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#109CBF"
+
+# Menu
+menu_primary = "#000000"
+menu_text = "#ffffff" #"#3AAFA9"
+menu_text_active = "#109CBF"
+menu_title = "#FFEFFF"
+
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#f6f6f6" #"#2e3440" 
+
+
+
+####

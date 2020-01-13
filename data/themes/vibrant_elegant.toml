@@ -1,0 +1,23 @@
+# Theme metadata
+name = "vae"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#24305E"
+
+# Menu
+menu_primary = "#A8D0E6"
+menu_text = "#F8E9A1"
+menu_text_active = "#2b7A78"
+menu_title = "#5CDB95"
+subtitle = "#3b4252"
+
+# Home sections
+home_section_odd = "#F76C6C"
+home_section_even = "#374785" #"#2e3440" 
+
+
+
+####
